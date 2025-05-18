@@ -128,11 +128,5 @@ El proyecto también incluye TextMeshPro para la renderización avanzada de text
 * Manejo de errores más robusto en el lado del cliente y del servidor.
 * Soporte para salas de chat o mensajes privados.
 
-## Licencias de Terceros
-* **TextMeshPro**: Revisar la licencia de TextMeshPro.
-* **EmojiOne**: Los emojis de muestra son proporcionados por EmojiOne. Consultar sus términos de licencia en [https://www.emojione.com/](https://www.emojione.com/) ().
-* **Liberation Sans Font**: Licenciada bajo la SIL Open Font License, Version 1.1 (). Copyright (c) 2012 Red Hat, Inc. () y (c) 2010 Google Corporation ().
-* **Anton Font**: Licenciada bajo la SIL Open Font License, Version 1.1 (). Copyright (c) 2011, Vernon Adams ().
-* **Bangers Font**: Licenciada bajo la SIL Open Font License, Version 1.1 (). Copyright (c) 2010 by Vernon Adams ().
-* **Oswald Font**: Licenciada bajo la SIL Open Font License, Version 1.1 (). Copyright (c) 2011-2012, Vernon Adams ().
-* **Node.js server dependencies** (Express, ws, cors): Consultar sus respectivas licencias (generalmente MIT o similares).
+![image](https://github.com/user-attachments/assets/1ac717f9-e990-4a69-83dc-05d64fac2bbd)
+
